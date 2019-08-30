@@ -1,3 +1,5 @@
+# Migrated to [DBTrenches/ED209](https://www.github.com/DBTrenches/ED209)
+
 # ED-209
 
 The **Enforcement Droid, Series 209**, or **ED-209**, are a fully-automated series of peacekeeping machines. Currently, the units are programmed for query pacification.
@@ -11,4 +13,3 @@ The **Enforcement Droid, Series 209**, or **ED-209**, are a fully-automated seri
 ## Removal
 
 `.\deploy\uninstall.ps1`
-
